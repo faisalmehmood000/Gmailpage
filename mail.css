@@ -1,0 +1,27 @@
+#head{
+    height: 6em ;
+    width: 85em;
+    background-color: lightgrey;
+}
+#logo{
+     margin: 10px;
+     float: left;
+     padding: 10px;
+}
+#search{
+        margin: 17px;
+        float: left;
+        padding: 15px;
+        width: 40px;
+}
+#engine{
+    width: 600px;
+    height: 35px;
+
+}
+#button{
+       margin: 0px ;
+       float: left;
+       padding: 32px 0px 10px 530px;
+       
+}
