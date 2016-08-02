@@ -1,6 +1,6 @@
 #head{
     height: 4em ;
-    width: 85em;
+    width: 80em;
     background-color:lightgray;
 }
 #logo{
@@ -24,4 +24,13 @@
        float: left;
        padding: 25px 0px 15px 530px;
        
+}
+#right{
+    float: right;
+    padding: 0px 4px;
+}
+li{
+    list-style: none;
+    display: inline;
+    padding: 6px;
 }
