@@ -34,3 +34,17 @@ li{
     display: inline;
     padding: 6px;
 }
+#Gmail{
+    border-style: none;
+    color:red;
+    font-size: 20px;
+    
+} 
+#clear{
+    clear: both;
+}
+option{
+    color: black;
+    font-size: 80%;
+   
+}
