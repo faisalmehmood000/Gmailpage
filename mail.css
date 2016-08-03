@@ -35,9 +35,10 @@ li{
     padding: 6px;
 }
 #Gmail{
-    border-style: none;
+    
     color:red;
     font-size: 20px;
+    padding-left: 25px;
     
 } 
 #clear{
@@ -45,6 +46,28 @@ li{
 }
 option{
     color: black;
-    font-size: 80%;
+    font-size: 70%;
+    
+
    
 }
+select{
+    border-style: none;
+    
+}
+ul{
+        display: inline;
+    
+
+}
+#RsideButtons{
+        float: right;
+}
+b{
+       padding: 0px 0px 8px 9px;
+}
+.blockline li{
+    display: block;
+    padding-left: 25px;
+}
+
