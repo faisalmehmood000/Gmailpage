@@ -84,10 +84,15 @@ figcaption a{
 }
 #mails{
     width: 68.5em;
-    border: 2px solid red;
     height: 30em;
     margin-top: -29em;
     margin-left: 10em 
     }
 
-   
+   table{
+       font-size: 14px;
+       border: 0px 1px 0px 1px;
+       background:rgb( 240,240,240);
+       width: 80em;
+       
+   }
