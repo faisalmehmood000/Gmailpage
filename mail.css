@@ -41,6 +41,11 @@ li{
     display: inline;
     padding: 6px;
 }
+.blockline li:hover{
+    color: white;
+    background-color: lightgrey;
+    cursor: pointer;
+}
 #Gmail{
     
     color:red;
@@ -91,8 +96,29 @@ figcaption a{
 
    table{
        font-size: 14px;
-       border: 0px 1px 0px 1px;
+       border: 0px 2px 0px 2px;
        background:rgb( 240,240,240);
        width: 80em;
        
    }
+   tr:hover{
+       background-color:  lightgray ;
+   }
+   
+   td{
+       border-bottom: 1px solid #999
+   }
+   input:hover{
+       color:black;
+       
+
+   }
+  #hangouts input {
+       padding-top:25px;
+   }
+  #inbox{
+      border-bottom: 2px solid black;
+      background-color: white;
+      
+ 
+  }
