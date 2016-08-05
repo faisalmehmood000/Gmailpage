@@ -90,7 +90,7 @@ figcaption a{
 #mails{
     width: 68.5em;
     height: 30em;
-    margin-top: -29em;
+    margin-top: -31em;
     margin-left: 10em 
     }
 
@@ -108,12 +108,8 @@ figcaption a{
    td{
        border-bottom: 1px solid #999
    }
-   input:hover{
-       color:black;
-       
 
-   }
-  #hangouts input {
+  #hangouts {
        padding-top:25px;
    }
   #inbox{
@@ -122,3 +118,4 @@ figcaption a{
       
  
   }
+ 
